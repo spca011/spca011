@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spca011
+- 👋 Hi, I’m Seungho Lee
 - 👀 I’m interested in: SAP ERP
 - 🌱 I’m currently learning: Master of It at Monash university.
 - 📫 How to reach me: To send to email spca011@gmail.com
